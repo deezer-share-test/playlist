@@ -1,0 +1,6 @@
+
+window[window["TiktokAnalyticsObject"]].instance("C5A7OKS6J7TSRVQBNON0").setAdvancedMatchingAvailableProperties({"email":true,"phone_number":true,"auto_email":false,"auto_phone_number":false});
+window[window["TiktokAnalyticsObject"]].instance("C5A7OKS6J7TSRVQBNON0").setPixelInfo && window[window["TiktokAnalyticsObject"]].instance("C5A7OKS6J7TSRVQBNON0").setPixelInfo({status: 0, name: "Content View All Pages + Reg + Tnb Pixel", advertiserID: "6753979688336490502", setupMode: 1, partner: "", is_onsite: false });
+window[window["TiktokAnalyticsObject"]].setPCMDomain && window[window["TiktokAnalyticsObject"]].setPCMDomain("deezer.com");
+window[window["TiktokAnalyticsObject"]].setPCMConfig && window[window["TiktokAnalyticsObject"]].setPCMConfig([]);
+window[window["TiktokAnalyticsObject"]].enableFirstPartyCookie && window[window["TiktokAnalyticsObject"]].enableFirstPartyCookie(false);
